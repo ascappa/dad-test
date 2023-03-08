@@ -1,0 +1,1715 @@
+BOSCH 0281002437
+
+Model Year
+
+KW
+
+HP
+
+CC
+
+Model
+
+ALFA 147 (937) 1.9 JTD 16V
+
+09.03 - 09.0409.03 - 09.04
+
+93
+
+126
+
+1910
+
+Hatchback
+
+ALFA 147 (937) 1.9 JTD 16V
+
+07.03 - 02.0507.03 - 02.05
+
+103
+
+140
+
+1910
+
+Hatchback
+
+ALFA 147 (937) 1.9 JTD 16V
+
+10.04
+
+100
+
+136
+
+1910
+
+Hatchback
+
+ALFA 147 (937) 1.9 JTDM 16V
+
+03.05 - 09.07
+
+110
+
+150
+
+1910
+
+Hatchback
+
+ALFA 147 (937) 1.9 JTDM 16V
+
+10.04
+
+85
+
+115
+
+1910
+
+Hatchback
+
+ALFA 147 (937) 1.9 JTDM 8V
+
+02.06
+
+88
+
+120
+
+1910
+
+Hatchback
+
+ALFA 156 (932) 1.9 JTD
+
+09.04 - 09.0509.04 - 09.05
+
+110
+
+150
+
+1910
+
+Saloon
+
+ALFA 156 (932) 1.9 JTD 16V
+
+08.03 - 02.05
+
+103
+
+140
+
+1910
+
+Saloon
+
+ALFA 156 (932) 2.4 JTD
+
+10.03 - 09.05
+
+129
+
+175
+
+2387
+
+Saloon
+
+ALFA 156 Sportwagon (932) 1.9 JTD 16V
+
+08.03 - 02.05
+
+103
+
+140
+
+1910
+
+Estate
+
+ALFA 156 Sportwagon (932) 1.9 JTD 16V Q4
+
+03.05 - 01.06
+
+110
+
+150
+
+1910
+
+Estate
+
+ALFA 159 1.9 JTDM 8V
+
+09.05
+
+88
+
+120
+
+1910
+
+Saloon
+
+ALFA 159 2.4 JTDM
+
+01.06
+
+147
+
+200
+
+2387
+
+Saloon
+
+ALFA 159 Sportwagon 1.9 JTDM 8V
+
+03.06
+
+88
+
+120
+
+1910
+
+Estate
+
+ALFA 159 Sportwagon 2.4 JTDM
+
+06.06
+
+147
+
+200
+
+2387
+
+Estate
+
+ALFA BRERA 2.4 JTDM 20V
+
+04.06
+
+147
+
+200
+
+2387
+
+Hatchback
+
+ALFA GT 1.9 JTD
+
+04.04 - 01.07
+
+110
+
+150
+
+1910
+
+Coupe
+
+ALFA SPIDER 2.4 JTDM
+
+03.08
+
+154
+
+210
+
+2387
+
+Convertible
+
+ALFA SPIDER 2.4 JTDM
+
+03.07
+
+147
+
+200
+
+2387
+
+Convertible
+
+FIAT CROMA (194) 1.9 D Multijet
+
+08.05
+
+110
+
+150
+
+1910
+
+Estate
+
+FIAT CROMA (194) 1.9 D Multijet
+
+06.05
+
+85
+
+115
+
+1910
+
+Estate
+
+FIAT CROMA (194) 1.9 D Multijet
+
+08.05
+
+88
+
+120
+
+1910
+
+Estate
+
+FIAT CROMA (194) 2.4 D Multijet
+
+08.05
+
+147
+
+200
+
+2387
+
+Estate
+
+FIAT DOBLO (119) 1.3 D Multijet
+
+10.05
+
+62
+
+84
+
+1248
+
+MPV
+
+FIAT DOBLO (119) 1.9 D Multijet
+
+12.05
+
+88
+
+120
+
+1910
+
+MPV
+
+FIAT DOBLO (119) 1.9 JTD
+
+11.04 - 11.05
+
+77
+
+105
+
+1910
+
+MPV
+
+FIAT DOBLO Cargo (223) 1.9 JTD Multijet
+
+07.03
+
+77
+
+105
+
+1910
+
+Box
+
+FIAT DUCATO Box 120 Multijet 2,3 D
+
+07.06
+
+88
+
+120
+
+2287
+
+Box
+
+FIAT DUCATO Box 160 Multijet  Power 3,0 D
+
+07.06
+
+116
+
+158
+
+2999
+
+Box
+
+FIAT DUCATO Bus 120 Multijet  2,3 D
+
+07.06
+
+88
+
+120
+
+2287
+
+Bus
+
+FIAT DUCATO Bus 120 Multijet Power 3,0 D
+
+07.06
+
+116
+
+158
+
+2999
+
+Bus
+
+FIAT DUCATO Flatbed / Chassis 120 Multijet 2,3 D
+
+07.06
+
+88
+
+120
+
+2287
+
+Flatbed / Chassis
+
+FIAT DUCATO Flatbed / Chassis 120 Multijet Power 3,0 D
+
+07.06
+
+116
+
+158
+
+2999
+
+Flatbed / Chassis
+
+FIAT GRANDE PUNTO (199) 1.3 D Multijet
+
+01.06 - 03.07
+
+66
+
+90
+
+1248
+
+Hatchback
+
+FIAT GRANDE PUNTO (199) 1.9 D Multijet
+
+01.06 - 03.07
+
+88
+
+120
+
+1910
+
+Hatchback
+
+FIAT GRANDE PUNTO (199) 1.9 D Multijet
+
+01.06
+
+96
+
+130
+
+1910
+
+Hatchback
+
+FIAT IDEA 1.3 D Multijet
+
+02.06 - 09.0702.06 - 09.07
+
+66
+
+90
+
+1248
+
+MPV
+
+FIAT IDEA 1.9 JTD
+
+01.04
+
+74
+
+101
+
+1910
+
+MPV
+
+FIAT MULTIPLA (186) 1.9 JTD (186AXE1A)
+
+02.06
+
+88
+
+120
+
+1910
+
+MPV
+
+FIAT PUNTO (188) 1.9 JTD
+
+07.03 - 01.0607.03 - 01.06
+
+74
+
+101
+
+1910
+
+Hatchback
+
+FIAT SEDICI 1.9 D Multijet
+
+06.06
+
+88
+
+120
+
+1910
+
+Closed Off-Road Vehicle
+
+FIAT STILO (192) 1.9 D Multijet
+
+01.06 - 06.07
+
+88
+
+120
+
+1910
+
+Hatchback
+
+FIAT STILO (192) 1.9 D Multijet
+
+09.05
+
+110
+
+150
+
+1910
+
+Hatchback
+
+FIAT STILO (192) 1.9 JTD
+
+01.04
+
+103
+
+140
+
+1910
+
+Hatchback
+
+FIAT STILO (192) 1.9 JTD (192_XE1A)
+
+11.01 - 01.06
+
+85
+
+115
+
+1910
+
+Hatchback
+
+FIAT STILO (192) 1.9 JTD (192AXS1B, 192BXS1B)
+
+09.04
+
+66
+
+90
+
+1910
+
+Hatchback
+
+FIAT STILO Multi Wagon (192) 1.9 D Multijet
+
+09.05
+
+110
+
+150
+
+1910
+
+Estate
+
+FIAT STILO Multi Wagon (192) 1.9 D Multijet
+
+09.05
+
+88
+
+120
+
+1910
+
+Estate
+
+FIAT STILO Multi Wagon (192) 1.9 JTD
+
+01.04
+
+103
+
+140
+
+1910
+
+Estate
+
+FIAT STILO Multi Wagon (192) 1.9 JTD
+
+02.03 - 01.0602.03 - 01.06
+
+85
+
+115
+
+1910
+
+Estate
+
+FIAT STRADA (178E) 1.3 D Multijet
+
+05.06
+
+62
+
+85
+
+1248
+
+Pickup
+
+IVECO Daily II 35 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Van / Estate 4x2 3.50
+
+IVECO Daily II 35 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Platform / Chassis 4x2 3.50
+
+IVECO Daily II 35 C 17, 35 S 17
+
+01.05 - 04.06
+
+122
+
+166
+
+2998
+
+Van / Estate 4x2 3.50
+
+IVECO Daily II 35 C 17, 35 S 17
+
+01.05 - 04.06
+
+122
+
+166
+
+2998
+
+Platform / Chassis 4x2 3.50
+
+IVECO Daily II 40 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Van / Estate 4x2 4.20
+
+IVECO Daily II 40 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Platform / Chassis 4x2 4.20
+
+IVECO Daily II 40 C 17, 40 S 17
+
+01.05 - 04.06
+
+122
+
+166
+
+2998
+
+Van / Estate 4x2 4.20
+
+IVECO Daily II 40 C 17, 40 S 17
+
+01.05 - 04.06
+
+122
+
+166
+
+12998
+
+Platform / Chassis 4x2 4.20
+
+IVECO Daily II 50 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Van / Estate 4x2 5.20
+
+IVECO Daily II 50 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Platform / Chassis 4x2 5.20
+
+IVECO Daily II 50 C 17
+
+09.04 - 04.0609.04 - 04.06
+
+122
+
+166
+
+2998
+
+Van / Estate 4x2 5.20
+
+IVECO Daily II 50 C 17
+
+09.04 - 04.0609.04 - 04.06
+
+122
+
+166
+
+2998
+
+Platform / Chassis 4x2 5.20
+
+IVECO Daily II 65 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Van / Estate 4x2 6.50
+
+IVECO Daily II 65 C 14
+
+09.04 - 04.0609.04 - 04.06
+
+100
+
+136
+
+2998
+
+Platform / Chassis 4x2 6.50
+
+IVECO Daily II 65 C 17
+
+09.04 - 04.0609.04 - 04.06
+
+122
+
+166
+
+2998
+
+Van / Estate 4x2 6.50
+
+IVECO Daily II 65 C 17
+
+09.04 - 04.0609.04 - 04.06
+
+122
+
+166
+
+2998
+
+Platform / Chassis 4x2 6.50
+
+LANCI YPSILON 1.3 D Multijet
+
+09.06
+
+66
+
+90
+
+1248
+
+Hatchback
+
+OPEL ASTRA G Convertible 2.2 DTI
+
+09.02 - 10.0509.02 - 10.05
+
+92
+
+125
+
+2172
+
+Convertible
+
+OPEL ASTRA G Coupe (F07_)  2.2 DTI
+
+09.02 - 05.0509.02 - 05.05
+
+92
+
+125
+
+2172
+
+Coupe
+
+OPEL ASTRA G Estate (F35_) 2.2 DTI
+
+09.02 - 07.0409.02 - 07.04
+
+92
+
+125
+
+2172
+
+Estate
+
+OPEL ASTRA G Hatchback (F48_, F08_) 2.2 DTI
+
+09.02 - 01.0509.02 - 01.05
+
+92
+
+125
+
+2172
+
+Hatchback
+
+OPEL ASTRA G Saloon (F69_) 2.2 DTI
+
+09.02 - 01.0509.02 - 01.05
+
+92
+
+125
+
+2172
+
+Saloon
+
+OPEL ASTRA H 1.3 CDTI
+
+04.05 - 03.08
+
+66
+
+90
+
+1248
+
+Hatchback
+
+OPEL ASTRA H 1.9 CDTI
+
+01.06 - 03.08
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL ASTRA H 1.9 CDTI
+
+01.05 - 03.08
+
+110
+
+150
+
+1910
+
+Hatchback
+
+OPEL ASTRA H 1.9 CDTI 16V
+
+06.04 - 01.07
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL ASTRA H Estate 1.3 CDTI
+
+10.06 - 03.08
+
+66
+
+90
+
+1248
+
+Estate
+
+OPEL ASTRA H Estate 1.9 CDTI
+
+11.06 - 03.08
+
+110
+
+150
+
+1910
+
+Estate
+
+OPEL ASTRA H Estate 1.9 CDTI
+
+11.06 - 03.08
+
+88
+
+120
+
+1910
+
+Estate
+
+OPEL ASTRA H Estate 1.9 CDTI 16V
+
+08.04
+
+88
+
+120
+
+1910
+
+Estate
+
+OPEL ASTRA H Sport Hatch 1.3 CDTI
+
+04.05
+
+66
+
+90
+
+1248
+
+Hatchback
+
+OPEL ASTRA H Sport Hatch 1.9 CDTi
+
+11.06 - 03.08
+
+110
+
+150
+
+1910
+
+Hatchback
+
+OPEL ASTRA H Sport Hatch 1.9 CDTI
+
+09.05
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL ASTRA H Sport Hatch 1.9 CDTi 16V
+
+03.05
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL ASTRA H TwinTop 1.9 CDTi
+
+04.07 - 03.08
+
+110
+
+150
+
+1910
+
+Convertible
+
+OPEL CORSA D 1.3 CDTI
+
+07.06 - 03.0807.06 - 03.08
+
+66
+
+90
+
+1248
+
+Hatchback
+
+OPEL SIGNUM 1.9 CDTI
+
+08.05
+
+74
+
+100
+
+1910
+
+Hatchback
+
+OPEL SIGNUM 1.9 CDTI
+
+04.04
+
+110
+
+150
+
+1910
+
+Hatchback
+
+OPEL SIGNUM 1.9 CDTI
+
+04.04
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL VECTRA C 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Saloon
+
+OPEL VECTRA C 1.9 CDTI
+
+04.04
+
+110
+
+150
+
+1910
+
+Saloon
+
+OPEL VECTRA C 1.9 CDTI
+
+04.04
+
+88
+
+120
+
+1910
+
+Saloon
+
+OPEL VECTRA C Estate 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Estate
+
+OPEL VECTRA C Estate 1.9 CDTI
+
+04.04
+
+110
+
+150
+
+1910
+
+Estate
+
+OPEL VECTRA C Estate 1.9 CDTI
+
+04.04
+
+88
+
+120
+
+1910
+
+Estate
+
+OPEL VECTRA C GTS 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Hatchback
+
+OPEL VECTRA C GTS 1.9 CDTI
+
+04.04
+
+110
+
+150
+
+1910
+
+Hatchback
+
+OPEL VECTRA C GTS 1.9 CDTI
+
+04.04
+
+88
+
+120
+
+1910
+
+Hatchback
+
+OPEL ZAFIRA (F75_) 2.0 DTI 16V
+
+09.00 - 06.0509.00 - 06.05
+
+74
+
+101
+
+1995
+
+MPV
+
+OPEL ZAFIRA (F75_) 2.2 DTI 16V
+
+01.02 - 06.05
+
+92
+
+125
+
+2172
+
+MPV
+
+OPEL ZAFIRA 1.9 CDTI
+
+07.05
+
+110
+
+150
+
+1910
+
+MPV
+
+OPEL ZAFIRA 1.9 CDTI
+
+07.05
+
+88
+
+120
+
+1910
+
+MPV
+
+OPEL ZAFIRA 1.9 CDTI
+
+07.05
+
+74
+
+100
+
+1910
+
+MPV
+
+SAAB 9-3 (YS3F) 1.9 TiD
+
+06.04 - 01.08
+
+110
+
+150
+
+1910
+
+Saloon
+
+SAAB 9-3 (YS3F) 1.9 TiD
+
+06.04 - 01.08
+
+88
+
+120
+
+1910
+
+Saloon
+
+SAAB 9-3 (YS3F) 1.9 TTiD
+
+06.07
+
+132
+
+180
+
+1910
+
+Saloon
+
+SAAB 9-3 Convertible (YS3F) 1.9 TiD
+
+01.06 - 01.08
+
+110
+
+150
+
+1910
+
+Convertible
+
+SAAB 9-3 Convertible (YS3F) 1.9 TiD
+
+06.07
+
+132
+
+180
+
+1910
+
+Convertible
+
+SAAB 9-3 Estate 1.9 TiD
+
+04.05 - 01.08
+
+110
+
+150
+
+1910
+
+Estate
+
+SAAB 9-3 Estate 1.9 TiD
+
+04.05 - 01.08
+
+88
+
+120
+
+1910
+
+Estate
+
+SAAB 9-3 Estate 1.9 TTiD
+
+06.07
+
+132
+
+180
+
+1910
+
+Estate
+
+SAAB 9-5 (YS3F) 1.9 TiD
+
+09.05 - 01.0809.05 - 01.08
+
+110
+
+150
+
+1910
+
+Saloon
+
+SAAB 9-5 Estate (YS3F) 1.9 TiD
+
+09.05 - 01.0809.05 - 01.08
+
+110
+
+150
+
+1910
+
+Estate
+
+VAUXH ASTRA Mk V Estate 1.3 CDTI
+
+09.05 - 03.0809.05 - 03.08
+
+66
+
+90
+
+1248
+
+Estate
+
+VAUXH ASTRA Mk V Estate 1.9 CDTI
+
+11.06 - 03.08
+
+110
+
+150
+
+1910
+
+Estate
+
+VAUXH ASTRA Mk V Estate 1.9 CDTI 16V
+
+01.06 - 01.07
+
+88
+
+120
+
+1910
+
+Estate
+
+VAUXH ASTRA Mk V Hatchback 1.3 CDTI
+
+10.06 - 03.08
+
+66
+
+90
+
+1248
+
+Hatchback
+
+VAUXH ASTRA Mk V Hatchback 1.9 CDTI
+
+01.06 - 03.08
+
+110
+
+150
+
+1910
+
+Hatchback
+
+VAUXH ASTRA Mk V Hatchback 1.9 CDTI 16V
+
+04.04
+
+88
+
+120
+
+1910
+
+Hatchback
+
+VAUXH ASTRA Mk V Sport Hatch 1.3 CDTi
+
+04.05
+
+66
+
+90
+
+1248
+
+Hatchback
+
+VAUXH ASTRA Mk V Sport Hatch 1.9 CDTi
+
+11.06 - 03.08
+
+110
+
+150
+
+1910
+
+Hatchback
+
+VAUXH ASTRA Mk V Sport Hatch 1.9 CDTi
+
+02.05
+
+88
+
+120
+
+1910
+
+Hatchback
+
+VAUXH TwinTop 1.9 CDTi 16v
+
+01.06
+
+110
+
+150
+
+1910
+
+Convertible
+
+VAUXH ASTRAVAN MK V 1.3 CDTi 16V
+
+08.05
+
+66
+
+90
+
+1248
+
+Box
+
+VAUXH ASTRAVAN MK V 1.9 CDTi
+
+03.05
+
+88
+
+120
+
+1910
+
+Box
+
+VAUXH ASTRAVAN MK V 1.9 CDTi 16V
+
+03.05
+
+110
+
+150
+
+1910
+
+Box
+
+VAUXH CORSA Mk III 1.3 CDTI
+
+07.06
+
+66
+
+90
+
+1248
+
+Hatchback
+
+VAUXH SIGNUM 1.9 CDTI
+
+01.04 - 01.07
+
+88
+
+120
+
+1910
+
+Hatchback
+
+VAUXH SIGNUM 1.9 CDTI 16V
+
+01.04 - 01.07
+
+110
+
+150
+
+1910
+
+Hatchback
+
+VAUXH VECTRA Mk II 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Saloon
+
+VAUXH VECTRA Mk II 1.9 CDTI
+
+01.04 - 03.08
+
+88
+
+120
+
+1910
+
+Saloon
+
+VAUXH VECTRA Mk II 1.9 CDTI 16V
+
+01.04 - 03.08
+
+110
+
+150
+
+1910
+
+Saloon
+
+VAUXH VECTRA Mk II Estate 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Estate
+
+VAUXH VECTRA Mk II Estate 1.9 CDTI
+
+01.04 - 03.08
+
+88
+
+120
+
+1910
+
+Estate
+
+VAUXH VECTRA Mk II Estate 1.9 CDTI 16V
+
+01.04 - 03.08
+
+110
+
+150
+
+1910
+
+Estate
+
+VAUXH VECTRA Mk II GTS 1.9 CDTI
+
+10.05
+
+74
+
+100
+
+1910
+
+Hatchback
+
+VAUXH VECTRA Mk II GTS 1.9 CDTI
+
+01.04 - 03.08
+
+88
+
+120
+
+1910
+
+Hatchback
+
+VAUXH VECTRA Mk II GTS 1.9 CDTI 16V
+
+01.04 - 03.08
+
+110
+
+150
+
+1910
+
+Hatchback
+
+OPEL ZAFIRA 2.0 DTI 16V
+
+12.02 - 10.05
+
+74
+
+101
+
+1995
+
+MPV
+
+OPEL ZAFIRA Mk II 1.9 CDTI
+
+07.05
+
+110
+
+150
+
+1910
+
+MPV
+
+OPEL ZAFIRA Mk II 1.9 CDTI
+
+07.05
+
+88
+
+120
+
+1910
+
+MPV

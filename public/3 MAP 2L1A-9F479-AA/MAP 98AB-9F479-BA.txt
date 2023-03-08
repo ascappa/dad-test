@@ -1,0 +1,42 @@
+    FORD Fiesta Mk4 Hatchback (JAS, JBS) (Anno di produzione 04.2000 - 01.2002, 75 CV, Diesel)
+    FORD Focus Mk1 Hatchback (DAW, DBW) (Anno di produzione 10.1998 - 11.2004, 75 - 115 CV, Diesel)
+    FORD Focus Mk1 Station Wagon (DNW) (Anno di produzione 02.1999 - 11.2004, 75 - 115 CV, Diesel)
+    FORD Focus Mk1 Sedan (DNW) (Anno di produzione 02.1999 - 03.2005, 75 - 115 CV, Diesel)
+    FORD Fiesta Mk4 Van (JVS) (Anno di produzione 03.2000 - 08.2003, 75 CV, Diesel)
+    FORD Transit Mk5 Bus (V184, V185) (Anno di produzione 01.2000 - 05.2006, 75 - 137 CV, Diesel)
+    FORD Transit Mk5 Van (V184, V185) (Anno di produzione 01.2000 - 05.2006, 75 - 137 CV, Diesel)
+    FORD Transit Mk5 Camion pianale/Telaio (V184, V185) (Anno di produzione 01.2000 - 05.2006, 75 - 137 CV, Diesel)
+    FORD Tourneo Connect (Anno di produzione 06.2002 - 12.2013, 75 - 110 CV, Diesel)
+    FORD Transit Connect Mk1 Van (Anno di produzione 06.2002 - 12.2013, 75 - 110 CV, Diesel)
+    FORD Focus Mk1 Van / Station Wagon (DNW) (Anno di produzione 08.1998 - 03.2005, 75 - 116 CV, Diesel)
+
+
+JAGUAR
+
+    JAGUAR XJ Sedan (X350, X358) (Anno di produzione 05.2003 - 03.2009, 207 - 298 CV, Benzina, Diesel)
+    JAGUAR XK Coupe (X150) (Anno di produzione 03.2006 - 07.2014, 258 - 298 CV, Benzina)
+    JAGUAR XK Cabrio (X150) (Anno di produzione 03.2006 - 07.2014, 258 - 298 CV, Benzina)
+    JAGUAR XF Sportbrake (X250) (Anno di produzione 09.2012 - 04.2014, 241 - 275 CV, Diesel)
+
+
+
+I numeri di serie del produttore confrontati con il numero del ricambio originale:
+
+    OEN EPS 1.993.355 — FACET
+    OEN KW 493 355 — FACET
+    OEN 1 041 954 — FORD
+    OEN 1 127 268 — FORD
+    OEN 1 139 330 — FORD
+    OEN 1 144 420 — FORD
+    OEN 1M5F-9S428-AA — FORD
+    OEN 1M5F-9S428-AB — FORD
+    OEN 4 449 664 — FORD
+
+    OEN 8X23-9S428-AA — FORD
+    OEN 98AB-9F479-BA — FORD
+    OEN 98AB-9S428-AB — FORD
+    OEN YC15-9S428-AA — FORD
+    OEN 138222 — HITACHI
+    OEN C2C 29212 — JAGUAR
+    OEN C2P 5434 — JAGUAR
+    OEN C2Z 4525 — JAGUAR
